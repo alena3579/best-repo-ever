@@ -52,3 +52,6 @@ git pull
 git fetch
 git merge
 ```
+
+### 다른 줄을 추가한다면?
+오케될까나~~
