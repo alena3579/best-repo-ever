@@ -53,5 +53,17 @@ git fetch
 git merge
 ```
 
-### 다른 줄을 추가한다면?
-오케될까나~~
+### 브랜치 삭제
+```
+git branch -d <new-branch-1>
+```
+
+### 작업중인 파일있어서 안될때
+```
+git branch -D <new-branch-1>
+```
+### 하고 remote branch도 삭제
+```
+git push :<new-branch-1>
+```
+
