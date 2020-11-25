@@ -11,7 +11,7 @@ git clone <repositirt address>
 git branch <myfeaturebranch>
 ```
 
-### 브랜치로 체크아웃
+### 브랜치로 체크아웃 같은줄을 변경하면??
 ```
 git checkout <myfeaturebranch>
 ```
